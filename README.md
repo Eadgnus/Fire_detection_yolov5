@@ -29,7 +29,7 @@
 
 # 사용 방법
 
-> 1. dist 폴더안의 run.zip 압축을 해제하여
+> 1. [다운로드 클릭](https://drive.google.com/file/d/14ObT1cmKxJP_9W_44OrceHMYzoIo8ZU-/view?usp=drive_link) 후 폴더안의 run.zip 압축을 해제하여
 
 > 2. 그 안의 run.exe 파일을 실행한다.
 
